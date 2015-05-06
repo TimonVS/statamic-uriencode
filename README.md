@@ -1,6 +1,6 @@
 # Statamic uri encode
 
-This modifier for Statamic enables you to encode a uri, as some JavaScript lightbox scripts may not work without encoded uris.
+This modifier for Statamic enables you to encode an uri, as some JavaScript lightbox scripts may not work without encoded uris.
 
 ## Example usage
 
